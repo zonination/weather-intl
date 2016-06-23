@@ -47,6 +47,7 @@ In addition to these plots, I was able to get some alternate plotting done:
 
 * I was going to do an alt-plot that adjusted for wind chill and heat index, but it looked like it might have been painfully time consuming to tabulate. Perhaps another Redditor can use the data to mess with Texas.
 
-## For US version:
+## Other Information:
 
-[Click here](https://github.com/zonination/weather-us).
+* For US version, [Click here](https://github.com/zonination/weather-us).
+* For Reddit thead, [Click here[](https://np.reddit.com/r/dataisbeautiful/comments/46kjr6/a_tale_of_48_cities_the_the_daily_temperature_and/)

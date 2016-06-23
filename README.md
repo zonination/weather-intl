@@ -50,4 +50,4 @@ In addition to these plots, I was able to get some alternate plotting done:
 ## Other Information:
 
 * For US version, [Click here](https://github.com/zonination/weather-us).
-* For Reddit thead, [Click here[](https://np.reddit.com/r/dataisbeautiful/comments/46kjr6/a_tale_of_48_cities_the_the_daily_temperature_and/)
+* For Reddit thead, [Click here](https://np.reddit.com/r/dataisbeautiful/comments/46kjr6/a_tale_of_48_cities_the_the_daily_temperature_and/)
